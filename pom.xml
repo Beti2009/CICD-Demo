@@ -42,7 +42,7 @@
       				<region>us-east-2</region>
       				<properties>
       				<http.port>8081</http.port> 
-      				<mule.env>Dev</mule.env>      				
+      				<mule.env>Sandbox</mule.env>      				
       				</properties>
 				 </cloudHubDeployment>
 				 </configuration>
